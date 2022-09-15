@@ -1,0 +1,188 @@
+﻿@model Cliente
+
+@{
+    var titulo = "Crear Cliente";
+}
+<form method="post">
+    <div class="row p-3 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.Id > 0)
+        {
+            titulo = "Editar Cliente";
+        }
+        <div class="col-12 border-bottom">
+            <h2 class="text-primary">@titulo</h2>
+        </div>
+        <div class="col-8 pt-4">
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Cedula"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Cedula" class="form-control" />
+                    <span asp-validation-for="Cedula" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Nombre"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Apellidos"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Apellidos" class="form-control" />
+                    <span asp-validation-for="Apellidos" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="FechaNacimiento"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="FechaNacimiento" class="form-control" />
+                    <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="CorreoElectronico" class="form-text"></label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">@@</span>
+                    </div>
+                    <input asp-for="CorreoElectronico" type="email" class="form-control"
+                           aria-describedby="ayudaCorreoElectronico" />
+                </div>
+                <small id="ayudaCorreoElectronico" class="form-text text-muted">
+                    El Correo Electrónico del Cliente.
+                </small>
+                <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Telefono"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Telefono" class="form-control" />
+                    <span asp-validation-for="Telefono" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary form-control">Guardar</button>
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success form-control">Regresar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class=" text-sm-center px-4 py-5 text-center">
+        <br />
+        <br />
+        <img src="~/lib/Imagenes/Fidelitas2.png" style="width:400px;height:200px; text-align:center" />
+    </div>
+</form>
+
+<script>
+
+    function ListarCantones(provincias) {
+        $("#Canton").find("option").remove().end()
+            .append($("<option>").text("-- Seleccionar --"));
+
+        $("#Distrito").find("option").remove().end()
+            .append($("<option>").text("-- Seleccionar --"));
+
+        var provincia = $(provincias).find(":selected").val();
+
+        $.ajax
+            (
+                {
+                    url: "/api/Empleado/upsert/cantones",
+                    data: { "provincia": provincia },
+                    type: "GET",
+                    dataType: "json",
+                    success: function(response) {
+                        if (!response.success) {
+                            toastr.error(response.error);
+                        }
+                        else {
+                            $.each
+                                (
+                                    response.content,
+                                    function(i, obj) {
+                                        $("#Canton").append
+                                            ($("<option>")
+                                                .val(obj.id)
+                                                .text(obj.nombre));
+                                    }
+                                );
+                        }
+                    }
+                }
+            );
+    }
+
+
+    function ListarDistritos(cantones) {
+        $("#Distrito").find("option").remove().end()
+            .append($("<option>").text("-- Seleccionar --"));
+
+        var canton = $(cantones).find(":selected").val();
+
+        $.ajax
+            (
+                {
+                    url: "/api/Empleado/upsert/distritos",
+                    data: { "canton": canton },
+                    type: "GET",
+                    dataType: "json",
+                    success: function(response) {
+                        if (!response.success) {
+                            toastr.error(response.error);
+                        }
+                        else {
+                            $.each
+                                (
+                                    response.content,
+                                    function(i, obj) {
+                                        $("#Distrito").append
+                                            ($("<option>")
+                                                .val(obj.id)
+                                                .text(obj.nombre));
+                                    }
+                                );
+                        }
+                    }
+                }
+            );
+    }
+</script>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
+

@@ -1,0 +1,11 @@
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\bin\Debug\net5.0\Lec06.Models.deps.json
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\bin\Debug\net5.0\Lec06.Models.dll
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\bin\Debug\net5.0\ref\Lec06.Models.dll
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\bin\Debug\net5.0\Lec06.Models.pdb
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.AssemblyInfoInputs.cache
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.AssemblyInfo.cs
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.csproj.CoreCompileInputs.cache
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.dll
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\ref\Lec06.Models.dll
+D:\Source Code\FIDELITAS\2C-2022\SC-701 PROGRAMACION AVANZADA EN WEB\SEMANA 06\Lec05 - Clase\Lec05.Models\obj\Debug\net5.0\Lec06.Models.pdb

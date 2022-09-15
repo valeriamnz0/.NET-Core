@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Venta de autos </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" 
+          data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <style>
+        h1, h2 {
+            margin: 30px auto;
+        }
+
+        .container-fluid {
+            background: #fff;
+            margin: 50px auto;
+        }
+
+        .contenido {
+            background: #ccc;
+        }
+
+        .lateral {
+            background: #eee;
+        }
+
+        .celda {
+            padding: 10px;
+            text-align: center;
+            background: #ddd;
+        }
+
+            .celda:nth-child(even) {
+                background: #eee;
+            }
+    </style>
+    <script src="https://kit.fontawesome.com/b4bbf55a6d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark  box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img style="height:40px;" src="~/img/Logo.png"/></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+
+                          @if (!User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item text-right">
+                                <a class="nav-link text-light" asp-controller="Accounts" asp-action="Register">Register</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-controller="Accounts" asp-action="Login">Login</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item text-right">
+                                <form asp-controller="Accounts" asp-action="Logout" method="post">
+                                    <button type="submit" class="nav-link text-dark btn border-0">
+                                        Logout @User.Identity.Name
+                                    </button>
+                                </form>
+                            </li>
+                        }
+
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button type="button" id="dropdownEstudiantes" class="btn dropdown-toggle text-light"
+                                        data-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-solid fa-user-group"></i> Empleados
+                                </button>
+                                <div class="dropdown-menu text-light" aria-labelledby="dropdownEstudiantes ">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Empleado" asp-action="Index">
+                                        <i class="fa-solid fa-user-plus"></i> Registro
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+
+                          <li class="nav-item">
+                            <div class="dropdown">
+                                <button type="button" id="dropdownClientes" class="btn dropdown-toggle text-light"
+                                        data-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-solid fa-user-plus"></i> Clientes
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownClientes">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Cliente" asp-action="Index">
+                                        <i class="fa-solid fa-user-plus"></i> Registro de Clientes
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button type="button" id="dropdownMantenimientos" class="btn dropdown-toggle text-light"
+                                        data-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-solid fa-toolbox "></i> Mantenimientos
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMantenimientos">
+                                    @*<a class="nav-link text-dark" asp-area="" asp-controller="Saludo" asp-action="Index">
+                                        <i class="fa-solid fa-handshake"></i> Saludos
+                                    </a>*@
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Rol" asp-action="Index">
+                                        <i class="fa-solid fa-graduation-cap"></i> Roles
+                                    </a>
+                                    @*<a class="nav-link text-dark" asp-area="" asp-controller="Matricula" asp-action="Index">
+                                        <i class="fa-solid fa-user-graduate"></i> Matriculas
+                                    </a>*@
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class=" footer text-muted bg-dark">
+        <div class="container text-light">
+            &copy; 2022 - Examen - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,136 @@
+﻿@model LoginInputModel
+
+<style>
+    body {
+        background: rgb(52,58,64);
+        background: linear-gradient(90deg, rgba(52,58,64,1) 0%, rgba(108,117,125,1) 25%, rgba(145,145,145,1) 50%, rgba(108,117,125,1) 75%, rgba(52,58,64,1) 100%);
+        /*background: rgb(108,117,125);
+                background: radial-gradient(circle, rgba(108,117,125,1) 0%, rgba(52,58,64,1) 80%, rgba(52,58,64,1) 100%);*/
+        /*background: -webkit-linear-gradient(left, #343a40,#3d444a,#363a3c, #3e4548, #3e4548 , #363a3c, #3d444a, #343a40);*/
+        /*background-image: url("../img/FondoLogin.jpg");
+
+                background-size:cover;*/
+    }
+    /*.header {
+                margin-bottom: 20px;
+            }
+
+                .header h3 {
+                    margin-bottom: 5px;
+                    margin-top: 25px;
+                }
+
+            .separator {
+                height: 1px;
+                background: #e8e8e8;
+                margin: 0px -25px;
+            }
+
+            .inputs {
+                margin-top: 25px;
+            }
+
+                .inputs label {
+                    letter-spacing: 1px;
+                    margin-bottom: 7px;
+                }
+
+                .inputs #submit {
+                    width: 100%;
+                    margin-top: 20px;
+                    padding: 15px 0;
+                    letter-spacing: 1px;*/
+    
+</style>
+
+<div class="text-center row justify-content-center" style="margin-top: 18%;">
+    <div class="card bg-dark">
+        <article class="card-body">
+            <form class="form-signin" method="post">
+                <h4 class="card-title text-center mb-4 mt-1 text-light">Sign in <i class="fa-solid fa-shield-halved"></i></h4>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <hr class="bg-light">
+                <p class="text-light text-center">Please insert your credentials!</p>
+                <div class="form-group">
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text bg-secondary"> <i class="fa fa-user text-light"></i> </span>
+                        </div>
+                        <input asp-for="Email" class="form-control bg-dark text-light" placeholder="E-Mail" type="email" autofocus />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text bg-secondary"> <i class="fa fa-lock text-light"></i> </span>
+                        </div>
+                        <input asp-for="Password" class="form-control bg-dark text-light" placeholder="Password" type="password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <input type="hidden" asp-for="SiteKey" />
+                    <input type="hidden" asp-for="Recaptcha" />
+                    <div class="g-recaptcha" data-callback="OnCallback" data-sitekey="@Model.SiteKey"></div>
+                </div>
+
+                <div class="form-group">
+                    <button id="submit" type="submit" class="btn btn-secondary btn-block">Login</button>
+                </div>
+                <p class="text-center"><a href="#" class="btn text-warning">Forgot password?</a></p>
+            </form>
+        </article>
+    </div>
+
+
+
+
+
+
+    @*<div class="form-group col-5">
+    <form asp-action="externallogin" method="post" asp-route-returnUrl="@Model.ReturnUrl">
+    <div class="form-group header">
+    <h3>External Login</h3>
+    </div>
+
+    <div class="form-group">
+    <div class="clearfix separator"></div>
+    </div>
+
+    <div class="form-group inputs">
+    @if (Model.ExternalLogins.Count == 0)
+    {
+    <div>There are no external authentication services configured.</div>
+    }
+
+    @foreach (var externalLogin in Model.ExternalLogins)
+    {
+    <button type="submit" name="provider" class="btn btn-outline-primary"
+    value="@externalLogin.Name">
+    @switch (externalLogin.Name)
+    {
+    case "Google":
+    <i class="fa-brands fa-google"></i>
+    break;
+    }
+    @externalLogin.DisplayName
+    </button>
+    }
+    </div>
+    </form>
+    </div>*@
+</div>
+
+
+@section Scripts
+    {
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        var OnCallback = function() {
+            $("#Recaptcha").val(grecaptcha.getResponse());
+        }
+    </script>
+    <partial name="_ValidationScriptsPartial" />
+}

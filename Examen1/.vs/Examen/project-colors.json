@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc18e9f-2bd4-41ae-8de7-628a1cc3b293": {
+      "ProjectGuid": "ebc18e9f-2bd4-41ae-8de7-628a1cc3b293",
+      "DisplayName": "Examen.Responsive",
+      "ColorIndex": 0
+    },
+    "484f7e84-e511-4995-804c-e2c16306d247": {
+      "ProjectGuid": "484f7e84-e511-4995-804c-e2c16306d247",
+      "DisplayName": "Examen.Models",
+      "ColorIndex": 1
+    },
+    "3ff0cd42-ee1e-419e-807a-6d6db3c6fc15": {
+      "ProjectGuid": "3ff0cd42-ee1e-419e-807a-6d6db3c6fc15",
+      "DisplayName": "Examen.DataAccess",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

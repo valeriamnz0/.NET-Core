@@ -1,0 +1,204 @@
+﻿@model Empleado
+
+@{
+	var titulo = "Crear Empleado";
+}
+
+<style>
+	body {
+		background: -webkit-linear-gradient(left, #343a40,#3d444a,#363a3c, #3e4548, #3e4548, #363a3c, #3d444a, #343a40);
+	}
+
+</style>
+
+
+<div class="text-center row justify-content-center col-12 bg-dark " style="margin-top: 12%;">
+
+	<article class="card-body col-9 offset-2">
+		<form method="post">
+			<div class="text-light">
+				<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+				@if (Model.Id > 0)
+				{
+					titulo = "Editar Empleado";
+				}
+				<div class=" border-bottom col-9">
+					<h2 class="text-light">@titulo</h2>
+				</div>
+				<div class=" pt-4">
+
+					<div class="form-group row ">
+						<div class="col-3">
+							<label asp-for="Cedula"></label>
+						</div>
+						<div class="col-6">
+							<input asp-for="Cedula" class="form-control bg-secondary text-light" />
+							<span asp-validation-for="Cedula" class="text-danger"></span>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<div class="col-3">
+							<label asp-for="Nombre"></label>
+						</div>
+						<div class="col-6">
+							<input asp-for="Nombre" class="form-control bg-secondary text-light" />
+							<span asp-validation-for="Nombre" class="text-danger"></span>
+						</div>
+					</div>
+
+					<div class="form-group row">
+						<div class="col-3">
+							<label asp-for="Apellidos"></label>
+						</div>
+						<div class="col-6">
+							<input asp-for="Apellidos" class="form-control bg-secondary text-light" />
+							<span asp-validation-for="Apellidos" class="text-danger"></span>
+						</div>
+					</div>
+
+					<div class="form-group row">
+
+						<label asp-for="CorreoElectronico" class="form-text col-3 text-center"></label>
+
+						<div class="input-group col-6">
+							
+							<input asp-for="CorreoElectronico" type="email" class="form-control bg-secondary text-light"
+								   aria-describedby="ayudaCorreoElectronico" />
+						</div>
+
+						@*<small id="ayudaCorreoElectronico" class="form-text text-muted">
+						El Correo Electrónico del Empleado.
+						</small>*@
+						<span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+					</div>
+
+
+
+
+					<div class="form-group row">
+						<div class="col-3">
+							<label asp-for="Genero" class="form-text"></label>
+						</div>
+						<div class="col-6">
+							@foreach (var genero in Enum.GetValues(typeof(Generos)))
+							{
+								<label class="form-check form-check-inline">
+									<input asp-for="Genero" type="radio" value="@((int)genero)"
+									   class="form-check form-check-input" aria-describedby="ayudaGenero" />
+									@Enum.GetName(typeof(Generos), genero)
+								</label>
+							}
+						</div>
+
+						<div>
+						</div>
+
+						@*<small id="ayudaGenero" class="form-text text-muted">
+						Género del Empleado.
+						</small>*@
+						<span asp-validation-for="Genero" class="text-danger col-4"></span>
+					</div>
+
+
+
+
+					<div class="form-group row">
+						<div class="col-4 offset-2 ">
+							<div class="row">
+								<div class="col">
+									<button type="submit" class="btn btn-success form-control">Guardar</button>
+								</div>
+								<div class="col">
+									<a asp-action="Index" class="btn btn-danger form-control">Regresar</a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+		</form>
+	</article>
+</div>
+<script>
+
+	function ListarCantones(provincias) {
+		$("#Canton").find("option").remove().end()
+			.append($("<option>").text("-- Seleccionar --"));
+
+		$("#Distrito").find("option").remove().end()
+			.append($("<option>").text("-- Seleccionar --"));
+
+		var provincia = $(provincias).find(":selected").val();
+
+		$.ajax
+			(
+				{
+					url: "/api/Empleado/upsert/cantones",
+					data: { "provincia": provincia },
+					type: "GET",
+					dataType: "json",
+					success: function(response) {
+						if (!response.success) {
+							toastr.error(response.error);
+						}
+						else {
+							$.each
+								(
+									response.content,
+									function(i, obj) {
+										$("#Canton").append
+											($("<option>")
+												.val(obj.id)
+												.text(obj.nombre));
+									}
+								);
+						}
+					}
+				}
+			);
+	}
+
+
+	function ListarDistritos(cantones) {
+		$("#Distrito").find("option").remove().end()
+			.append($("<option>").text("-- Seleccionar --"));
+
+		var canton = $(cantones).find(":selected").val();
+
+		$.ajax
+			(
+				{
+					url: "/api/Empleado/upsert/distritos",
+					data: { "canton": canton },
+					type: "GET",
+					dataType: "json",
+					success: function(response) {
+						if (!response.success) {
+							toastr.error(response.error);
+						}
+						else {
+							$.each
+								(
+									response.content,
+									function(i, obj) {
+										$("#Distrito").append
+											($("<option>")
+												.val(obj.id)
+												.text(obj.nombre));
+									}
+								);
+						}
+					}
+				}
+			);
+	}
+</script>
+
+@section Scripts
+	{
+	<partial name="_ValidationScriptsPartial" />
+}
+

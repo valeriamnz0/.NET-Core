@@ -1,0 +1,96 @@
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\bin\Debug\net5.0\ref\Examen.Models.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\ref\Examen.Models.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\refint\Examen.Models.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\refint\Examen.Models.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\ref\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\bin\Debug\net5.0\ref\Examen.Models.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\refint\Examen.Models.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.deps.json
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\refint\Examen.Models.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.Models\obj\Debug\net5.0\ref\Examen.Models.dll

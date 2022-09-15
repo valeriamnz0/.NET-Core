@@ -1,0 +1,162 @@
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+E:\braya\Universidad\Programación Avanzada en Web\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+E:\FinalProyect\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+E:\FinalProyect\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+E:\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\refint\Examen.DataAccess.dll
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+C:\Users\uservmn\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\refint\Examen.DataAccess.dll
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+C:\Users\valer\Downloads\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\ref\Examen.DataAccess.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+C:\Users\capa6\Desktop\New folder\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\ref\Examen.DataAccess.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+\\Mac\Home\Desktop\FinalProyectPrograWebAvan-main\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\refint\Examen.DataAccess.dll
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+D:\Repositorios\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.deps.json
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.json
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.runtimeconfig.dev.json
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\bin\Debug\net5.0\Examen.Models.pdb
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.AssemblyReference.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfoInputs.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.AssemblyInfo.cs
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.csproj.CopyComplete
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\refint\Examen.DataAccess.dll
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.pdb
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\Examen.DataAccess.genruntimeconfig.cache
+C:\Users\valer\OneDrive\Documents\GitHub\FinalProyectPrograWebAvan\Examen1\Examen.DataAccess\obj\Debug\net5.0\ref\Examen.DataAccess.dll
